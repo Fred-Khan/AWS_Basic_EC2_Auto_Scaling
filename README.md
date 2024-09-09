@@ -1,3 +1,4 @@
+# AWS Basic EC2 Auto Scaling
 Basic step-by-step guide to creating an EC2 instance and configuring Auto Scaling in AWS:
 
 ### **Step 1: Create an EC2 Instance**
